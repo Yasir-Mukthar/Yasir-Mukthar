@@ -7,7 +7,7 @@ Programmer | Developer | Learner
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Web**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
