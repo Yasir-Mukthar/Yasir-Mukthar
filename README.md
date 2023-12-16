@@ -18,8 +18,8 @@ You can find me on,
 
 Hi, I’m Yasir Mukhtar!
 
-I’m Currently from Pakistan, going into my 2rd year at University of Gujrat(UOG), Mandi-Bahauddin, learning Computer Science. My technical expertise currently lies with Front End Developement & C++ Developer. 
-I've worked with C++, SQL, HTML5, CSS3, JS, PHP. See more tools down below. 
+I’m Currently from Pakistan, going into my final year at University of Gujrat(UOG), Mandi-Bahauddin, learning Computer Science. My technical expertise currently lies with Front End Developement. 
+I've worked with C++, SQL, HTML5, CSS3, JS, REACTJS, NODEJS, PHP. See more tools down below. 
 
 <h2 align="left">## Tech Stack
 </h2>
